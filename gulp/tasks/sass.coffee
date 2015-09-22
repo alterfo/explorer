@@ -6,7 +6,7 @@ sourcemaps = require 'gulp-sourcemaps'
 handleErrors = require '../util/handleErrors'
 
 gulp.task 'sass', ->
-  gulp.src './app/css/*.sass'
+  gulp.src './app/css/main.sass'
   .pipe sass({ style: 'expanded', sourceComments: 'map', errLogToConsole: true, includePaths: './bower_components'})
   .pipe sourcemaps.write()
   .pipe gulp.dest('./build/css');

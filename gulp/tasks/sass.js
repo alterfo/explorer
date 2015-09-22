@@ -15,7 +15,7 @@
   handleErrors = require('../util/handleErrors');
 
   gulp.task('sass', function() {
-    return gulp.src('./app/css/*.sass').pipe(sass({
+    return gulp.src('./app/css/main.sass').pipe(sass({
       style: 'expanded',
       sourceComments: 'map',
       errLogToConsole: true,

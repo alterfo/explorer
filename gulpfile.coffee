@@ -7,7 +7,7 @@ requireDir './gulp/tasks', recurse: true
 gulp.task 'default', ['server']
 
 gulp.task 'build', ['clean'], (cb) ->
-  runSequence ['partials', 'scripts', 'html', 'sass', 'images'], cb
+  runSequence ['partials', 'scripts', 'jade', 'sass', 'images'], cb
 
 gulp.task 'server', ['setWatch', 'build'], ->
   gulp.start 'watch'
