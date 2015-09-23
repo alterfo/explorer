@@ -12,6 +12,7 @@
         <item url="file://$PROJECT_DIR$/gulp/tasks/html.js" />
         <item url="file://$PROJECT_DIR$/gulp/tasks/less.js" />
         <item url="file://$PROJECT_DIR$/node_modules/browserify-shim/node_modules/rename-function-calls/node_modules/detective/node_modules/escodegen/node_modules/esutils/test/code.js" />
+        <item url="file://$PROJECT_DIR$/gulp/tasks/bower.js" />
         <item url="file://$PROJECT_DIR$/gulp/tasks/jade.js" />
         <item url="file://$PROJECT_DIR$/gulp/tasks/scripts.js" />
         <item url="file://$PROJECT_DIR$/app/js/main.js" />
@@ -33,6 +34,7 @@
       <root url="file://$PROJECT_DIR$/gulp/tasks/html.js" />
       <root url="file://$PROJECT_DIR$/gulp/tasks/less.js" />
       <root url="file://$PROJECT_DIR$/node_modules/browserify-shim/node_modules/rename-function-calls/node_modules/detective/node_modules/escodegen/node_modules/esutils/test/code.js" />
+      <root url="file://$PROJECT_DIR$/gulp/tasks/bower.js" />
       <root url="file://$PROJECT_DIR$/gulp/tasks/jade.js" />
       <root url="file://$PROJECT_DIR$/gulp/tasks/scripts.js" />
       <root url="file://$PROJECT_DIR$/app/js/main.js" />

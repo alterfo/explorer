@@ -1,11 +1,13 @@
 
-console.log("Hello")
+$(document).ready ->
+  $(".owl-carousel").owlCarousel
+    items: 4
+    margin: 100
+    navigation: true
+    dots: true
+    autoWidth: true
 
-$ = require('jquery')
+  $('.owl-carousel__testimonials').owlCarousel
+    navigation: true
+    singleItem: true
 
-global.jQuery = $
-
-foundation = require('foundation')
-foundationorbit = require('foundationorbit')
-
-$(document).foundation();

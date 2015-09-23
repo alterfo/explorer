@@ -1,0 +1,54 @@
+.testimonials
+  background-image: url(i/diagonal__pattern) repeat repeat
+
+  .testimonial__wrapper
+    width: 750px
+    margin: 0 auto
+    display: table
+    table-layout: fixed
+
+
+  .t__img
+    width: 120px
+    height: 120px
+    float: left
+    margin: 30px
+    display: table-cell
+
+
+  .t__text-wrapper
+    position: relative
+    display: table-cell
+    table-layout: fixed
+    width: 520px
+    vertical-align: top
+
+
+  .t__text
+    quotes: "\201C""\201D""\2018""\2019"
+    display: table-cell
+    padding-left: 24px
+
+  .t__author
+    padding-left: 24px
+    padding-top: 10px
+
+  .t__text:before
+    content: open-quote
+    font-family: Arial
+    font-size: 72px
+    color: #af3957
+    position: absolute
+    left: 0
+    top: -36px
+
+  .t__text:after
+    content: close-quote
+    font-family: Arial
+    font-size: 72px
+    color: #af3957
+    position: absolute
+    right: 0
+    bottom: 0
+
+
