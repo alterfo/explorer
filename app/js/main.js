@@ -4,7 +4,6 @@
     $(".owl-carousel").owlCarousel({
       items: 4,
       margin: 100,
-      navigation: true,
       dots: true,
       autoWidth: true
     });

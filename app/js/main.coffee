@@ -3,7 +3,6 @@ $(document).ready ->
   $(".owl-carousel").owlCarousel
     items: 4
     margin: 100
-    navigation: true
     dots: true
     autoWidth: true
 
@@ -12,7 +11,7 @@ $(document).ready ->
     navigationText: [
       "<i class='fa fa-chevron-left'></i>"
       "<i class='fa fa-chevron-right'></i>"
-      ],
+      ]
     singleItem: true
     loop: false
 

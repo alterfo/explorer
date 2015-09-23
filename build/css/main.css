@@ -10558,71 +10558,174 @@ th.hide-for-touch {
 
 /* line 1, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
 .testimonials {
-  background-image: url(i/diagonal__pattern) repeat repeat; }
+  background-image: url(../i/diagonal__pattern.png); }
   /* line 4, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
   .testimonials .testimonial__wrapper {
     width: 750px;
-    margin: 0 auto;
-    display: table;
-    table-layout: fixed; }
-  /* line 11, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
+    margin: 0 auto; }
+  /* line 9, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
   .testimonials .t__img {
     width: 120px;
     height: 120px;
     float: left;
-    margin: 30px;
-    display: table-cell; }
-  /* line 19, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
+    margin: 30px; }
+  /* line 16, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
   .testimonials .t__text-wrapper {
-    position: relative;
-    display: table-cell;
-    table-layout: fixed;
-    width: 520px;
-    vertical-align: top; }
-  /* line 27, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
+    position: relative; }
+  /* line 21, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
   .testimonials .t__text {
     quotes: "“" "”" "‘" "’";
-    display: table-cell;
     padding-left: 24px; }
-  /* line 32, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
+  /* line 25, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
   .testimonials .t__author {
     padding-left: 24px;
     padding-top: 10px; }
-  /* line 36, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
+  /* line 29, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
   .testimonials .t__text:before {
     content: open-quote;
     font-family: Arial;
     font-size: 72px;
     color: #af3957;
     position: absolute;
-    left: 0;
+    left: 156px;
     top: -36px; }
-  /* line 45, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
+  /* line 38, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
   .testimonials .t__text:after {
     content: close-quote;
     font-family: Arial;
     font-size: 72px;
     color: #af3957;
     position: absolute;
-    right: 0;
-    bottom: 0; }
+    right: 420px;
+    bottom: 64px; }
+  /* line 47, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
+  .testimonials .t__see-my-photos-button {
+    background-color: #ff6d29;
+    height: 36px;
+    padding: 10px 20px;
+    text-transform: uppercase; }
+    /* line 53, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
+    .testimonials .t__see-my-photos-button i {
+      margin-right: 10px; }
 
-/* line 22, stdin */
+/* line 3, /Users/oleg/Sites/explorer/app/css/featuredin.sass */
+.featuredin .featuredin__title {
+  font-size: 24px;
+  color: #e2001a;
+  text-transform: uppercase; }
+
+/* line 7, /Users/oleg/Sites/explorer/app/css/featuredin.sass */
+.featuredin .featuredin__images {
+  text-align: center;
+  margin-bottom: 20px; }
+  /* line 11, /Users/oleg/Sites/explorer/app/css/featuredin.sass */
+  .featuredin .featuredin__images .featuredin__img {
+    margin-right: 45px; }
+
+/* line 1, /Users/oleg/Sites/explorer/app/css/footer.sass */
+.footer {
+  background-image: url(../i/footerbg.jpg);
+  background-size: cover;
+  height: 340px;
+  margin-top: 200px;
+  position: relative; }
+  /* line 8, /Users/oleg/Sites/explorer/app/css/footer.sass */
+  .footer .footer__ddc {
+    background-image: url(../i/doubledeckercircle.png);
+    position: absolute;
+    top: -100px;
+    left: 50%;
+    width: 263px;
+    height: 263px;
+    margin-left: -132px; }
+  /* line 17, /Users/oleg/Sites/explorer/app/css/footer.sass */
+  .footer .footer__line {
+    position: absolute;
+    margin-top: -15px;
+    border-top: 10px solid #ed520a;
+    border-bottom: 2px solid #ed520a;
+    height: 15px;
+    width: 100%; }
+  /* line 25, /Users/oleg/Sites/explorer/app/css/footer.sass */
+  .footer .text__list {
+    margin-top: 50px; }
+  /* line 28, /Users/oleg/Sites/explorer/app/css/footer.sass */
+  .footer .text__list--offset {
+    margin-left: 24px; }
+  /* line 31, /Users/oleg/Sites/explorer/app/css/footer.sass */
+  .footer .footer__link {
+    color: white;
+    line-height: 3; }
+  /* line 35, /Users/oleg/Sites/explorer/app/css/footer.sass */
+  .footer .text__list-item i {
+    font-size: 24px;
+    width: 36px; }
+  /* line 39, /Users/oleg/Sites/explorer/app/css/footer.sass */
+  .footer .copy__line {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    color: #bfbbbb;
+    font-size: 12px; }
+  /* line 46, /Users/oleg/Sites/explorer/app/css/footer.sass */
+  .footer .privacy__link {
+    color: #bfbbbb;
+    margin-left: 30px; }
+  /* line 50, /Users/oleg/Sites/explorer/app/css/footer.sass */
+  .footer .terms__link {
+    color: #bfbbbb;
+    margin-left: 20px; }
+
+/* line 1, /Users/oleg/Sites/explorer/app/css/pageheaderbg.sass */
+.pageheaderbg {
+  background-image: url(../i/pageheaderbg.png);
+  background-size: cover;
+  height: 290px;
+  width: 100%;
+  position: relative;
+  border-bottom: 20px solid #e2001a;
+  margin-bottom: 30px; }
+  /* line 10, /Users/oleg/Sites/explorer/app/css/pageheaderbg.sass */
+  .pageheaderbg:after {
+    background: #f29c74;
+    height: 10px;
+    content: "";
+    width: 100%;
+    display: block;
+    position: absolute;
+    bottom: -30px; }
+  /* line 20, /Users/oleg/Sites/explorer/app/css/pageheaderbg.sass */
+  .pageheaderbg .page__title {
+    text-transform: uppercase;
+    line-height: 1.5;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-size: 85px;
+    color: white;
+    width: 20%;
+    border-top: 10px solid white;
+    border-bottom: 10px solid white; }
+
+/* line 25, stdin */
 .row {
   margin: 0 auto;
   max-width: 62.5rem; }
 
-/* line 26, stdin */
+/* line 29, stdin */
 .row--ext {
   margin: 0 auto;
   max-width: 72.5em; }
 
-/* line 30, stdin */
+/* line 33, stdin */
 body {
   font-family: 'Open Sans', Arial, sans-serif;
   color: #2d6795; }
 
-/* line 34, stdin */
+/* line 37, stdin */
 .delimiter {
   height: 1em;
   border-top: 1px dashed black;
@@ -10634,7 +10737,7 @@ body {
  *	v1.3.2
  */
 /* clearfix */
-/* line 7, ./bower_components/owl-carousel/owl-carousel/owl.carousel.css */
+/* line 7, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
 .owl-carousel .owl-wrapper:after {
   content: ".";
   display: block;
@@ -10644,26 +10747,26 @@ body {
   height: 0; }
 
 /* display none until init */
-/* line 16, ./bower_components/owl-carousel/owl-carousel/owl.carousel.css */
+/* line 16, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
 .owl-carousel {
   display: none;
   position: relative;
   width: 100%;
   -ms-touch-action: pan-y; }
 
-/* line 22, ./bower_components/owl-carousel/owl-carousel/owl.carousel.css */
+/* line 22, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
 .owl-carousel .owl-wrapper {
   display: none;
   position: relative;
   -webkit-transform: translate3d(0px, 0px, 0px); }
 
-/* line 27, ./bower_components/owl-carousel/owl-carousel/owl.carousel.css */
+/* line 27, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
 .owl-carousel .owl-wrapper-outer {
   overflow: hidden;
   position: relative;
   width: 100%; }
 
-/* line 32, ./bower_components/owl-carousel/owl-carousel/owl.carousel.css */
+/* line 32, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
 .owl-carousel .owl-wrapper-outer.autoHeight {
   -webkit-transition: height 500ms ease-in-out;
   -moz-transition: height 500ms ease-in-out;
@@ -10671,16 +10774,16 @@ body {
   -o-transition: height 500ms ease-in-out;
   transition: height 500ms ease-in-out; }
 
-/* line 40, ./bower_components/owl-carousel/owl-carousel/owl.carousel.css */
+/* line 40, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
 .owl-carousel .owl-item {
   float: left; }
 
-/* line 44, ./bower_components/owl-carousel/owl-carousel/owl.carousel.css */
+/* line 44, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
 .owl-controls .owl-page,
 .owl-controls .owl-buttons div {
   cursor: pointer; }
 
-/* line 47, ./bower_components/owl-carousel/owl-carousel/owl.carousel.css */
+/* line 47, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
 .owl-controls {
   -webkit-user-select: none;
   -khtml-user-select: none;
@@ -10690,12 +10793,12 @@ body {
   -webkit-tap-highlight-color: transparent; }
 
 /* mouse grab icon */
-/* line 57, ./bower_components/owl-carousel/owl-carousel/owl.carousel.css */
+/* line 57, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
 .grabbing {
   cursor: url(grabbing.png) 8 8, move; }
 
 /* fix */
-/* line 63, ./bower_components/owl-carousel/owl-carousel/owl.carousel.css */
+/* line 63, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
 .owl-carousel .owl-wrapper,
 .owl-carousel .owl-item {
   -webkit-backface-visibility: hidden;
@@ -10709,13 +10812,13 @@ body {
 * 	Owl Carousel Owl Demo Theme 
 *	v1.3.2
 */
-/* line 6, ./bower_components/owl-carousel/owl-carousel/owl.theme.css */
+/* line 6, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
 .owl-theme .owl-controls {
   margin-top: 10px;
   text-align: center; }
 
 /* Styling Next and Prev buttons */
-/* line 13, ./bower_components/owl-carousel/owl-carousel/owl.theme.css */
+/* line 13, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
 .owl-theme .owl-controls .owl-buttons div {
   color: #FFF;
   display: inline-block;
@@ -10733,9 +10836,27 @@ body {
   /*IE7 fix*/
   opacity: 0.5; }
 
+/* line 29, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
+.owl-theme .owl-controls .owl-buttons div.owl-prev {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  background: none;
+  color: grey;
+  font-size: 36px; }
+
+/* line 38, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
+.owl-theme .owl-controls .owl-buttons div.owl-next {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  background: none;
+  color: grey;
+  font-size: 36px; }
+
 /* Clickable class fix problem with hover on touch devices */
 /* Use it for non-touch hover action */
-/* line 30, ./bower_components/owl-carousel/owl-carousel/owl.theme.css */
+/* line 50, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
 .owl-theme .owl-controls.clickable .owl-buttons div:hover {
   filter: Alpha(Opacity=100);
   /*IE7 fix*/
@@ -10743,14 +10864,14 @@ body {
   text-decoration: none; }
 
 /* Styling Pagination*/
-/* line 38, ./bower_components/owl-carousel/owl-carousel/owl.theme.css */
+/* line 58, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
 .owl-theme .owl-controls .owl-page {
   display: inline-block;
   zoom: 1;
   *display: inline;
   /*IE7 life-saver */ }
 
-/* line 43, ./bower_components/owl-carousel/owl-carousel/owl.theme.css */
+/* line 63, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
 .owl-theme .owl-controls .owl-page span {
   display: block;
   width: 12px;
@@ -10764,7 +10885,7 @@ body {
   border-radius: 20px;
   background: #869791; }
 
-/* line 57, ./bower_components/owl-carousel/owl-carousel/owl.theme.css */
+/* line 77, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
 .owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls.clickable .owl-page:hover span {
   filter: Alpha(Opacity=100);
@@ -10772,7 +10893,7 @@ body {
   opacity: 1; }
 
 /* If PaginationNumbers is true */
-/* line 64, ./bower_components/owl-carousel/owl-carousel/owl.theme.css */
+/* line 84, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
 .owl-theme .owl-controls .owl-page span.owl-numbers {
   height: auto;
   width: auto;
@@ -10784,7 +10905,7 @@ body {
   border-radius: 30px; }
 
 /* preloading images */
-/* line 76, ./bower_components/owl-carousel/owl-carousel/owl.theme.css */
+/* line 96, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
 .owl-item.loading {
   min-height: 150px;
   background: url(AjaxLoader.gif) no-repeat center center; }

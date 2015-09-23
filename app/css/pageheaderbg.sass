@@ -1,0 +1,33 @@
+.pageheaderbg
+  background-image: url(../i/pageheaderbg.png)
+  background-size: cover
+  height: 290px
+  width: 100%
+  position: relative
+  border-bottom: 20px solid #e2001a
+  margin-bottom: 30px
+
+  &:after
+    background: #f29c74
+    height: 10px;
+    content: "";
+    width: 100%;
+    display: block;
+    position: absolute;
+    bottom: -30px;
+  
+  
+  .page__title
+    text-transform: uppercase
+    line-height: 1.5
+    display: inline-block
+    position: absolute
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+    font-size: 85px
+    color: white
+    width: 20%
+    border-top: 10px solid white
+    border-bottom: 10px solid white
