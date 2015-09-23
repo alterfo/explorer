@@ -11,6 +11,7 @@
     gulp.watch('app/js/*.js', ['clientscripts']);
     gulp.watch('app/js/lib/*.js', ['vendorscripts']);
     gulp.watch('app/css/*.sass', ['sass']);
+    gulp.watch('app/css/*.css', ['sass']);
     return gulp.watch('app/i/**', ['images']);
   });
 
