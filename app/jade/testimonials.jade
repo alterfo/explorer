@@ -6,9 +6,12 @@
                     .testimonial__title.text-center
                         img(src="i/testimonial__title.png")
                     .testimonial__wrapper
-                        img.t__img(src="i/testimonial__avatar.png")
-                        .t__text-wrapper
+                        .t__text-wrapper.clearfix
+                            img.t__img(src="i/testimonial__avatar.png")
                             p.t__text We loved every minute of our NY experience. Getting around was super easy and going on the tour was a great option fof seeing as much as we could in 2 days.
                             p.t__author Tina K.
-                            i.fa.fa-instagramm
-                            a.button.t__see-my-photos-button See My Photos
+                        
+                            .t_button-wrapper.clearfix.text-center
+                                a.button.round.t__see-my-photos-button 
+                                    i.fa.fa-instagram
+                                    | See My Photos
