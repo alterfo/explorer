@@ -15,7 +15,7 @@
   gulp.task('default', ['server']);
 
   gulp.task('build', ['clean'], function(cb) {
-    return runSequence(['partials', 'vendorscripts', 'clientscripts', 'jade', 'sass', 'images'], cb);
+    return runSequence(['partials', 'vendorscripts', 'clientscripts', 'jade', 'sass', 'fonts', 'images'], cb);
   });
 
   gulp.task('server', ['setWatch', 'build'], function() {
