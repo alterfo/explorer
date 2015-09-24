@@ -1,6 +1,10 @@
 
 $(document).ready ->
-  $(".owl-carousel").owlCarousel
+  $('.owl-carousel-main').owlCarousel
+    singleItem: true
+    dots: true
+
+  $(".owl-carousel__popular-tours").owlCarousel
     items: 4
     margin: 100
     dots: true
@@ -13,5 +17,6 @@ $(document).ready ->
       "<i class='fa fa-chevron-right'></i>"
       ]
     singleItem: true
+    pagination: false
     loop: false
 
