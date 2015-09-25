@@ -10877,8 +10877,7 @@ th.hide-for-touch {
   height: 290px;
   width: 100%;
   position: relative;
-  border-bottom: 20px solid #e2001a;
-  margin-bottom: 30px; }
+  border-bottom: 20px solid #e2001a; }
   /* line 10, /Users/oleg/Sites/explorer/app/css/pageheaderbg.sass */
   .pageheaderbg:after {
     background: #f29c74;
@@ -10900,9 +10899,72 @@ th.hide-for-touch {
     transform: translate(-50%, -50%);
     font-size: 85px;
     color: white;
-    width: 20%;
     border-top: 10px solid white;
-    border-bottom: 10px solid white; }
+    border-bottom: 10px solid white;
+    font-family: Helvetica, Arial, sans-serif; }
+
+/* line 1, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+.slider__reddots {
+  background: #e3e2e2;
+  padding-top: 80px; }
+
+/* line 7, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+.sr__item1 {
+  background-image: url(../i/sr__img1.jpg);
+  background-size: cover;
+  height: 440px;
+  position: relative; }
+
+/* line 7, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+.sr__item2 {
+  background-image: url(../i/sr__img2.jpg);
+  background-size: cover;
+  height: 440px;
+  position: relative; }
+
+/* line 7, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+.sr__item3 {
+  background-image: url(../i/sr__img3.jpg);
+  background-size: cover;
+  height: 440px;
+  position: relative; }
+
+/* line 15, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+.sr__textblock {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: left;
+  background: rgba(0, 0, 0, 0.6);
+  margin: 0;
+  padding: 25px 0 70px 90px;
+  color: white;
+  font-size: 36px;
+  line-height: 1;
+  font-weight: 300; }
+
+/* line 30, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+.owl-carousel__reddots.owl-theme .owl-pagination {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%); }
+
+/* line 37, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+.owl-carousel__reddots.owl-theme .owl-pagination span {
+  margin-left: 18px;
+  background: #ffffff;
+  filter: Alpha(Opacity=100);
+  opacity: 1; }
+
+/* line 43, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+.owl-carousel__reddots.owl-theme .owl-controls .owl-page.active span {
+  display: block;
+  width: 20px;
+  height: 20px;
+  margin-bottom: 1px;
+  background: #e2001a; }
 
 /* line 1, /Users/oleg/Sites/explorer/app/css/homepage.sass */
 .homepage__banner1 {
@@ -11003,22 +11065,22 @@ th.hide-for-touch {
   margin-bottom: 1px;
   background: #e2001a; }
 
-/* line 28, stdin */
+/* line 31, stdin */
 .row {
   margin: 0 auto;
   max-width: 62.5rem; }
 
-/* line 32, stdin */
+/* line 35, stdin */
 .row--ext {
   margin: 0 auto;
   max-width: 72.5em; }
 
-/* line 36, stdin */
+/* line 39, stdin */
 body {
-  font-family: 'Open Sans', Arial, sans-serif;
-  color: #2d6795; }
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 300; }
 
-/* line 40, stdin */
+/* line 43, stdin */
 .delimiter {
   height: 1em;
   border-top: 1px dashed black;

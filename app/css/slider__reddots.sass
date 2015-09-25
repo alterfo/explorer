@@ -1,0 +1,48 @@
+.slider__reddots
+  background: #e3e2e2
+  padding-top: 80px
+
+
+
+@for $i from 1 to 4
+  .sr__item#{$i}
+    background-image: url(../i/sr__img#{$i}.jpg)
+    background-size: cover
+    height: 440px
+    position: relative
+
+
+.sr__textblock
+  position: absolute
+  bottom: 0
+  width: 100%
+  text-align: left
+  background: rgba(0, 0, 0, 0.6)
+  margin: 0
+  padding: 25px 0 70px 90px
+  color: white
+  font-size: 36px
+  line-height: 1
+  font-weight: 300
+
+
+
+.owl-carousel__reddots.owl-theme .owl-pagination
+  position: absolute
+  bottom: 0
+  left: 50%
+  margin-right: -50%
+  transform: translate(-50%, -50%)
+
+.owl-carousel__reddots.owl-theme .owl-pagination span
+  margin-left: 18px
+  background: #ffffff
+  filter: Alpha(Opacity=100)
+  opacity: 1
+
+.owl-carousel__reddots.owl-theme .owl-controls .owl-page.active span
+  display: block
+  width: 20px
+  height: 20px
+  margin-bottom: 1px
+  background: #e2001a

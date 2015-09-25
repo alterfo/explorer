@@ -1,0 +1,28 @@
+//- index.jade
+extends ./layout.jade
+
+block title
+    title Style title
+
+block content
+    include logo--alone
+    .delimiter include logo--alone
+    include logo--menu
+    .delimiter include logo--menu
+    include logo--homepage
+    .delimiter include logo--homepage
+    include attractions__row
+    .delimiter include attractions__row
+    include popular-tours
+    .delimiter include popular-tours
+    include testimonials
+    .delimiter include testimonials
+    include featuredin
+    .delimiter include featuredin
+    include footer
+    .delimiter include footer
+    - var header = "TOURS"
+    include pageheaderbg
+    .delimiter include pageheaderbg
+    include slider__reddots
+    .delimiter include slider__reddots

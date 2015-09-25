@@ -3,7 +3,13 @@
   $(document).ready(function() {
     $('.owl-carousel-main').owlCarousel({
       singleItem: true,
-      dots: true
+      dots: true,
+      autoplay: true
+    });
+    $('.owl-carousel__reddots').owlCarousel({
+      singleItem: true,
+      dots: true,
+      autoplay: true
     });
     $(".owl-carousel__popular-tours").owlCarousel({
       items: 4,
