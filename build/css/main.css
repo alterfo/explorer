@@ -10433,8 +10433,6 @@ th.hide-for-touch {
 .fa-fonticons:before {
   content: ""; }
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 /* 
  * 	Core Owl Carousel CSS File
  *	v1.3.2
@@ -10613,10 +10611,6 @@ th.hide-for-touch {
   min-height: 150px;
   background: url(AjaxLoader.gif) no-repeat center center; }
 
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 /* line 1, C:/Sites/explorer/app/css/margins.sass */
 .bottom20 {
   margin-bottom: 20px; }
@@ -10676,32 +10670,16 @@ th.hide-for-touch {
 .logo--homepage {
   height: 100px;
   line-height: 100px;
-<<<<<<< Updated upstream
   background: rgba(171, 171, 179, 0.6);
   z-index: 100;
   position: relative; }
   /* line 10, C:/Sites/explorer/app/css/logo--homepage.sass */
-=======
-  background: #ababb3; }
-  /* line 8, C:/Sites/explorer/app/css/logo--homepage.sass */
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   .logo--homepage .login .avatar {
     border-radius: 50%;
     width: 32px;
     height: 32px;
     margin-top: -7px; }
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   /* line 16, C:/Sites/explorer/app/css/logo--homepage.sass */
-=======
-  /* line 14, C:/Sites/explorer/app/css/logo--homepage.sass */
->>>>>>> Stashed changes
-=======
-  /* line 14, C:/Sites/explorer/app/css/logo--homepage.sass */
->>>>>>> Stashed changes
   .logo--homepage .login i, .logo--homepage .login span {
     font-size: 1.4em;
     margin: 0 0.3em;
@@ -10710,20 +10688,12 @@ th.hide-for-touch {
 /* line 1, C:/Sites/explorer/app/css/attractions__row.sass */
 .attractions__row {
   padding-top: 1em; }
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   /* line 4, C:/Sites/explorer/app/css/attractions__row.sass */
   .attractions__row .attraction__img {
     height: 65px;
     display: block;
     margin: 0 auto; }
   /* line 11, C:/Sites/explorer/app/css/attractions__row.sass */
-=======
-  /* line 7, C:/Sites/explorer/app/css/attractions__row.sass */
->>>>>>> Stashed changes
-=======
-  /* line 7, C:/Sites/explorer/app/css/attractions__row.sass */
->>>>>>> Stashed changes
   .attractions__row .attraction__text {
     text-transform: uppercase;
     text-wrap: nowrap;
@@ -10734,58 +10704,27 @@ th.hide-for-touch {
 
 /* line 1, C:/Sites/explorer/app/css/popular-tours.sass */
 .popular-tours {
-<<<<<<< Updated upstream
   padding: 20px 0;
   background: #eaeded;
   margin: 0; }
   /* line 6, C:/Sites/explorer/app/css/popular-tours.sass */
-=======
-  padding: 2em 0;
-  background: #eaeded; }
-  /* line 5, C:/Sites/explorer/app/css/popular-tours.sass */
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   .popular-tours .tours__title {
     color: red;
     text-transform: uppercase;
     font-size: 24px;
-<<<<<<< Updated upstream
     text-align: center;
     font-weight: bold;
     margin-bottom: 20px; }
   /* line 14, C:/Sites/explorer/app/css/popular-tours.sass */
-=======
-    text-align: center; }
-  /* line 11, C:/Sites/explorer/app/css/popular-tours.sass */
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   .popular-tours .item__wrapper {
     position: relative;
     width: 200px;
     height: 250px; }
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   /* line 19, C:/Sites/explorer/app/css/popular-tours.sass */
   .popular-tours .popular__image {
     max-height: 250px;
     max-width: 200px; }
   /* line 23, C:/Sites/explorer/app/css/popular-tours.sass */
-=======
-=======
->>>>>>> Stashed changes
-  /* line 16, C:/Sites/explorer/app/css/popular-tours.sass */
-  .popular-tours .popular__image {
-    max-height: 250px;
-    max-width: 200px; }
-  /* line 20, C:/Sites/explorer/app/css/popular-tours.sass */
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   .popular-tours .popular__text {
     text-transform: uppercase;
     font-size: 20px;
@@ -10797,8 +10736,6 @@ th.hide-for-touch {
     width: 100%;
     height: 70px;
     margin: 0; }
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   /* line 35, C:/Sites/explorer/app/css/popular-tours.sass */
   .popular-tours .popular__text--red {
     background: rgba(255, 0, 0, 0.8); }
@@ -10809,30 +10746,11 @@ th.hide-for-touch {
   .popular-tours .popular__text--blue {
     background: rgba(2, 130, 182, 0.8); }
   /* line 44, C:/Sites/explorer/app/css/popular-tours.sass */
-=======
-=======
->>>>>>> Stashed changes
-  /* line 32, C:/Sites/explorer/app/css/popular-tours.sass */
-  .popular-tours .popular__text--red {
-    background: rgba(255, 0, 0, 0.8); }
-  /* line 35, C:/Sites/explorer/app/css/popular-tours.sass */
-  .popular-tours .popular__text--orange {
-    background: rgba(255, 122, 1, 0.8); }
-  /* line 38, C:/Sites/explorer/app/css/popular-tours.sass */
-  .popular-tours .popular__text--blue {
-    background: rgba(2, 130, 182, 0.8); }
-  /* line 41, C:/Sites/explorer/app/css/popular-tours.sass */
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   .popular-tours .popular__text--violet {
     background: rgba(98, 100, 131, 0.8); }
 
 /* line 1, C:/Sites/explorer/app/css/testimonials.sass */
 .testimonials {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   background-image: url(../i/diagonal__pattern.png);
   padding-bottom: 140px; }
   /* line 5, C:/Sites/explorer/app/css/testimonials.sass */
@@ -10840,29 +10758,11 @@ th.hide-for-touch {
     width: 750px;
     margin: 0 auto; }
   /* line 10, C:/Sites/explorer/app/css/testimonials.sass */
-=======
-  background-image: url(../i/diagonal__pattern.png); }
-  /* line 4, C:/Sites/explorer/app/css/testimonials.sass */
-  .testimonials .testimonial__wrapper {
-    width: 750px;
-    margin: 0 auto; }
-  /* line 9, C:/Sites/explorer/app/css/testimonials.sass */
->>>>>>> Stashed changes
-=======
-  background-image: url(../i/diagonal__pattern.png); }
-  /* line 4, C:/Sites/explorer/app/css/testimonials.sass */
-  .testimonials .testimonial__wrapper {
-    width: 750px;
-    margin: 0 auto; }
-  /* line 9, C:/Sites/explorer/app/css/testimonials.sass */
->>>>>>> Stashed changes
   .testimonials .t__img {
     width: 120px;
     height: 120px;
     float: left;
     margin: 30px; }
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   /* line 17, C:/Sites/explorer/app/css/testimonials.sass */
   .testimonials .t__text-wrapper {
     position: relative; }
@@ -10875,28 +10775,6 @@ th.hide-for-touch {
     padding-left: 24px;
     padding-top: 10px; }
   /* line 30, C:/Sites/explorer/app/css/testimonials.sass */
-=======
-  /* line 16, C:/Sites/explorer/app/css/testimonials.sass */
-  .testimonials .t__text-wrapper {
-    position: relative; }
-=======
-  /* line 16, C:/Sites/explorer/app/css/testimonials.sass */
-  .testimonials .t__text-wrapper {
-    position: relative; }
->>>>>>> Stashed changes
-  /* line 21, C:/Sites/explorer/app/css/testimonials.sass */
-  .testimonials .t__text {
-    quotes: "“" "”" "‘" "’";
-    padding-left: 24px; }
-  /* line 25, C:/Sites/explorer/app/css/testimonials.sass */
-  .testimonials .t__author {
-    padding-left: 24px;
-    padding-top: 10px; }
-  /* line 29, C:/Sites/explorer/app/css/testimonials.sass */
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   .testimonials .t__text:before {
     content: open-quote;
     font-family: Arial;
@@ -10905,15 +10783,7 @@ th.hide-for-touch {
     position: absolute;
     left: 156px;
     top: -36px; }
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   /* line 39, C:/Sites/explorer/app/css/testimonials.sass */
-=======
-  /* line 38, C:/Sites/explorer/app/css/testimonials.sass */
->>>>>>> Stashed changes
-=======
-  /* line 38, C:/Sites/explorer/app/css/testimonials.sass */
->>>>>>> Stashed changes
   .testimonials .t__text:after {
     content: close-quote;
     font-family: Arial;
@@ -10922,26 +10792,13 @@ th.hide-for-touch {
     position: absolute;
     right: 420px;
     bottom: 64px; }
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   /* line 48, C:/Sites/explorer/app/css/testimonials.sass */
-=======
-  /* line 47, C:/Sites/explorer/app/css/testimonials.sass */
->>>>>>> Stashed changes
-=======
-  /* line 47, C:/Sites/explorer/app/css/testimonials.sass */
->>>>>>> Stashed changes
   .testimonials .t__see-my-photos-button {
     background-color: #ff6d29;
     height: 36px;
     padding: 10px 20px;
     text-transform: uppercase; }
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     /* line 54, C:/Sites/explorer/app/css/testimonials.sass */
-=======
-    /* line 53, C:/Sites/explorer/app/css/testimonials.sass */
->>>>>>> Stashed changes
     .testimonials .t__see-my-photos-button i {
       margin-right: 10px; }
 
@@ -10950,7 +10807,6 @@ th.hide-for-touch {
   font-size: 24px;
   color: #e2001a;
   text-transform: uppercase; }
-<<<<<<< Updated upstream
 
 /* line 7, C:/Sites/explorer/app/css/featuredin.sass */
 .featuredin .featuredin__images {
@@ -11112,132 +10968,14 @@ th.hide-for-touch {
 
 /* line 41, C:/Sites/explorer/app/css/slider__reddots.sass */
 .owl-carousel__reddots.owl-theme .owl-controls .owl-page.active span {
-=======
-    /* line 53, C:/Sites/explorer/app/css/testimonials.sass */
-    .testimonials .t__see-my-photos-button i {
-      margin-right: 10px; }
-
-/* line 3, C:/Sites/explorer/app/css/featuredin.sass */
-.featuredin .featuredin__title {
-  font-size: 24px;
-  color: #e2001a;
-  text-transform: uppercase; }
-
-/* line 7, C:/Sites/explorer/app/css/featuredin.sass */
-.featuredin .featuredin__images {
-  text-align: center;
-  margin-bottom: 20px; }
-  /* line 11, C:/Sites/explorer/app/css/featuredin.sass */
-  .featuredin .featuredin__images .featuredin__img {
-    margin-right: 45px; }
-
-/* line 1, C:/Sites/explorer/app/css/footer.sass */
-.footer {
-  background-image: url(../i/footerbg.jpg);
-  background-size: cover;
-  height: 340px;
-  margin-top: 200px;
-  position: relative; }
-  /* line 8, C:/Sites/explorer/app/css/footer.sass */
-  .footer .footer__ddc {
-    background-image: url(../i/doubledeckercircle.png);
-    position: absolute;
-    top: -115px;
-    left: 50%;
-    width: 263px;
-    height: 263px;
-    margin-left: -132px; }
-  /* line 17, C:/Sites/explorer/app/css/footer.sass */
-  .footer .footer__line {
-    position: absolute;
-    margin-top: -15px;
-    border-top: 10px solid #ed520a;
-    border-bottom: 2px solid #ed520a;
-    height: 15px;
-    width: 100%; }
-
-=======
-
-/* line 7, C:/Sites/explorer/app/css/featuredin.sass */
-.featuredin .featuredin__images {
-  text-align: center;
-  margin-bottom: 20px; }
-  /* line 11, C:/Sites/explorer/app/css/featuredin.sass */
-  .featuredin .featuredin__images .featuredin__img {
-    margin-right: 45px; }
-
-/* line 1, C:/Sites/explorer/app/css/footer.sass */
-.footer {
-  background-image: url(../i/footerbg.jpg);
-  background-size: cover;
-  height: 340px;
-  margin-top: 200px;
-  position: relative; }
-  /* line 8, C:/Sites/explorer/app/css/footer.sass */
-  .footer .footer__ddc {
-    background-image: url(../i/doubledeckercircle.png);
-    position: absolute;
-    top: -115px;
-    left: 50%;
-    width: 263px;
-    height: 263px;
-    margin-left: -132px; }
-  /* line 17, C:/Sites/explorer/app/css/footer.sass */
-  .footer .footer__line {
-    position: absolute;
-    margin-top: -15px;
-    border-top: 10px solid #ed520a;
-    border-bottom: 2px solid #ed520a;
-    height: 15px;
-    width: 100%; }
-
->>>>>>> Stashed changes
-/* line 24, stdin */
-.row {
-  margin: 0 auto;
-  max-width: 62.5rem; }
-
-/* line 28, stdin */
-.row--ext {
-  margin: 0 auto;
-  max-width: 72.5em; }
-
-/* line 32, stdin */
-body {
-  font-family: 'Open Sans', Arial, sans-serif;
-  color: #2d6795; }
-
-/* line 36, stdin */
-.delimiter {
-  height: 1em;
-  border-top: 1px dashed black;
-  border-bottom: 1px dashed black;
-  background: #E6EA69; }
-
-/* 
- * 	Core Owl Carousel CSS File
- *	v1.3.2
- */
-/* clearfix */
-/* line 7, C:/Sites/explorer/app/css/owl.carousel.css */
-.owl-carousel .owl-wrapper:after {
-  content: ".";
->>>>>>> Stashed changes
   display: block;
   width: 20px;
   height: 20px;
   margin-bottom: 1px;
   background: #e2001a; }
 
-<<<<<<< Updated upstream
 /* line 1, C:/Sites/explorer/app/css/homepage.sass */
 .homepage__banner1 {
-=======
-/* display none until init */
-/* line 16, C:/Sites/explorer/app/css/owl.carousel.css */
-.owl-carousel {
-  display: none;
->>>>>>> Stashed changes
   position: relative;
   top: 0;
   height: 825px;
@@ -11246,17 +10984,8 @@ body {
   background-size: cover;
   z-index: 50; }
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 /* line 10, C:/Sites/explorer/app/css/homepage.sass */
 .homepage__banner2 {
-=======
-=======
->>>>>>> Stashed changes
-/* line 22, C:/Sites/explorer/app/css/owl.carousel.css */
-.owl-carousel .owl-wrapper {
-  display: none;
->>>>>>> Stashed changes
   position: relative;
   top: 0;
   height: 825px;
@@ -11265,7 +10994,6 @@ body {
   background-size: cover;
   z-index: 50; }
 
-<<<<<<< Updated upstream
 /* line 19, C:/Sites/explorer/app/css/homepage.sass */
 .homepage__banner3 {
   position: relative;
@@ -11322,7 +11050,6 @@ body {
 .owl-carousel-main {
   margin-bottom: -12px; }
 
-<<<<<<< Updated upstream
 /* line 76, C:/Sites/explorer/app/css/homepage.sass */
 .owl-carousel-main.owl-theme .owl-pagination {
   position: absolute;
@@ -11340,136 +11067,17 @@ body {
 
 /* line 89, C:/Sites/explorer/app/css/homepage.sass */
 .owl-carousel-main.owl-theme .owl-controls .owl-page.active span {
-=======
-=======
->>>>>>> Stashed changes
-/* line 27, C:/Sites/explorer/app/css/owl.carousel.css */
-.owl-carousel .owl-wrapper-outer {
-  overflow: hidden;
-  position: relative;
-  width: 100%; }
-
-/* line 32, C:/Sites/explorer/app/css/owl.carousel.css */
-.owl-carousel .owl-wrapper-outer.autoHeight {
-  -webkit-transition: height 500ms ease-in-out;
-  -moz-transition: height 500ms ease-in-out;
-  -ms-transition: height 500ms ease-in-out;
-  -o-transition: height 500ms ease-in-out;
-  transition: height 500ms ease-in-out; }
-
-/* line 40, C:/Sites/explorer/app/css/owl.carousel.css */
-.owl-carousel .owl-item {
-  float: left; }
-
-/* line 44, C:/Sites/explorer/app/css/owl.carousel.css */
-.owl-controls .owl-page,
-.owl-controls .owl-buttons div {
-  cursor: pointer; }
-
-/* line 47, C:/Sites/explorer/app/css/owl.carousel.css */
-.owl-controls {
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-  -webkit-tap-highlight-color: transparent; }
-
-/* mouse grab icon */
-/* line 57, C:/Sites/explorer/app/css/owl.carousel.css */
-.grabbing {
-  cursor: url(grabbing.png) 8 8, move; }
-
-/* fix */
-/* line 63, C:/Sites/explorer/app/css/owl.carousel.css */
-.owl-carousel .owl-wrapper,
-.owl-carousel .owl-item {
-  -webkit-backface-visibility: hidden;
-  -moz-backface-visibility: hidden;
-  -ms-backface-visibility: hidden;
-  -webkit-transform: translate3d(0, 0, 0);
-  -moz-transform: translate3d(0, 0, 0);
-  -ms-transform: translate3d(0, 0, 0); }
-
-/*
-* 	Owl Carousel Owl Demo Theme 
-*	v1.3.2
-*/
-/* line 6, C:/Sites/explorer/app/css/owl.theme.css */
-.owl-theme .owl-controls {
-  margin-top: 10px;
-  text-align: center; }
-
-/* Styling Next and Prev buttons */
-/* line 13, C:/Sites/explorer/app/css/owl.theme.css */
-.owl-theme .owl-controls .owl-buttons div {
-  color: #FFF;
-  display: inline-block;
-  zoom: 1;
-  *display: inline;
-  /*IE7 life-saver */
-  margin: 5px;
-  padding: 3px 10px;
-  font-size: 12px;
-  -webkit-border-radius: 30px;
-  -moz-border-radius: 30px;
-  border-radius: 30px;
-  background: #869791;
-  filter: Alpha(Opacity=50);
-  /*IE7 fix*/
-  opacity: 0.5; }
-
-/* line 29, C:/Sites/explorer/app/css/owl.theme.css */
-.owl-theme .owl-controls .owl-buttons div.owl-prev {
-  position: absolute;
-  top: 50%;
-  left: 0;
-  background: none;
-  color: grey;
-  font-size: 36px; }
-
-/* line 38, C:/Sites/explorer/app/css/owl.theme.css */
-.owl-theme .owl-controls .owl-buttons div.owl-next {
-  position: absolute;
-  top: 50%;
-  right: 0;
-  background: none;
-  color: grey;
-  font-size: 36px; }
-
-/* Clickable class fix problem with hover on touch devices */
-/* Use it for non-touch hover action */
-/* line 50, C:/Sites/explorer/app/css/owl.theme.css */
-.owl-theme .owl-controls.clickable .owl-buttons div:hover {
-  filter: Alpha(Opacity=100);
-  /*IE7 fix*/
-  opacity: 1;
-  text-decoration: none; }
-
-/* Styling Pagination*/
-/* line 58, C:/Sites/explorer/app/css/owl.theme.css */
-.owl-theme .owl-controls .owl-page {
-  display: inline-block;
-  zoom: 1;
-  *display: inline;
-  /*IE7 life-saver */ }
-
-/* line 63, C:/Sites/explorer/app/css/owl.theme.css */
-.owl-theme .owl-controls .owl-page span {
->>>>>>> Stashed changes
   display: block;
   width: 20px;
   height: 20px;
   margin-bottom: 1px;
   background: #e2001a; }
 
-<<<<<<< Updated upstream
 /* line 31, stdin */
 .row {
   margin: 0 auto;
   max-width: 62.5rem; }
 
-<<<<<<< Updated upstream
 /* line 35, stdin */
 .row--ext {
   margin: 0 auto;
@@ -11486,31 +11094,3 @@ body {
   border-top: 1px dashed black;
   border-bottom: 1px dashed black;
   background: #E6EA69; }
-=======
-=======
->>>>>>> Stashed changes
-/* line 77, C:/Sites/explorer/app/css/owl.theme.css */
-.owl-theme .owl-controls .owl-page.active span,
-.owl-theme .owl-controls.clickable .owl-page:hover span {
-  filter: Alpha(Opacity=100);
-  /*IE7 fix*/
-  opacity: 1; }
-
-/* If PaginationNumbers is true */
-/* line 84, C:/Sites/explorer/app/css/owl.theme.css */
-.owl-theme .owl-controls .owl-page span.owl-numbers {
-  height: auto;
-  width: auto;
-  color: #FFF;
-  padding: 2px 10px;
-  font-size: 12px;
-  -webkit-border-radius: 30px;
-  -moz-border-radius: 30px;
-  border-radius: 30px; }
-
-/* preloading images */
-/* line 96, C:/Sites/explorer/app/css/owl.theme.css */
-.owl-item.loading {
-  min-height: 150px;
-  background: url(AjaxLoader.gif) no-repeat center center; }
->>>>>>> Stashed changes
