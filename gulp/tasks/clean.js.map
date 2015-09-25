@@ -1,9 +1,9 @@
 {
   "version": 3,
   "file": "clean.js",
-  "sourceRoot": "",
+  "sourceRoot": "..\\..",
   "sources": [
-    "clean.coffee"
+    "gulp\\tasks\\clean.coffee"
   ],
   "names": [],
   "mappings": ";AAAA;AAAA,MAAA;;EAAA,IAAA,GAAO,OAAA,CAAQ,MAAR;;EACP,GAAA,GAAM,OAAA,CAAQ,KAAR;;EAEN,IAAI,CAAC,IAAL,CAAU,OAAV,EAAmB,SAAC,EAAD;WAClB,GAAA,CAAI,SAAJ,EAAe,EAAf;EADkB,CAAnB;AAHA"
