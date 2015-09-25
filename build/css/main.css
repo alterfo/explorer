@@ -10929,6 +10929,13 @@ th.hide-for-touch {
   height: 440px;
   position: relative; }
 
+/* line 7, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+.sr__item4 {
+  background-image: url(../i/sr__img4.jpg);
+  background-size: cover;
+  height: 440px;
+  position: relative; }
+
 /* line 15, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
 .sr__textblock {
   position: absolute;
@@ -10943,7 +10950,7 @@ th.hide-for-touch {
   line-height: 1;
   font-weight: 300; }
 
-/* line 30, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+/* line 28, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
 .owl-carousel__reddots.owl-theme .owl-pagination {
   position: absolute;
   bottom: 0;
@@ -10951,14 +10958,14 @@ th.hide-for-touch {
   margin-right: -50%;
   transform: translate(-50%, -50%); }
 
-/* line 37, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+/* line 35, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
 .owl-carousel__reddots.owl-theme .owl-pagination span {
   margin-left: 18px;
   background: #ffffff;
   filter: Alpha(Opacity=100);
   opacity: 1; }
 
-/* line 43, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+/* line 41, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
 .owl-carousel__reddots.owl-theme .owl-controls .owl-page.active span {
   display: block;
   width: 20px;
