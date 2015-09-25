@@ -22,7 +22,10 @@
       navigationText: ["<i class='fa fa-chevron-left'></i>", "<i class='fa fa-chevron-right'></i>"],
       singleItem: true,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       pagination: false,
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
       loop: false

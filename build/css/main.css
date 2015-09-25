@@ -10434,6 +10434,7 @@ th.hide-for-touch {
   content: ""; }
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /* 
  * 	Core Owl Carousel CSS File
  *	v1.3.2
@@ -10614,6 +10615,8 @@ th.hide-for-touch {
 
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 /* line 1, C:/Sites/explorer/app/css/margins.sass */
 .bottom20 {
   margin-bottom: 20px; }
@@ -10681,6 +10684,9 @@ th.hide-for-touch {
 =======
   background: #ababb3; }
   /* line 8, C:/Sites/explorer/app/css/logo--homepage.sass */
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   .logo--homepage .login .avatar {
     border-radius: 50%;
@@ -10688,7 +10694,11 @@ th.hide-for-touch {
     height: 32px;
     margin-top: -7px; }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   /* line 16, C:/Sites/explorer/app/css/logo--homepage.sass */
+=======
+  /* line 14, C:/Sites/explorer/app/css/logo--homepage.sass */
+>>>>>>> Stashed changes
 =======
   /* line 14, C:/Sites/explorer/app/css/logo--homepage.sass */
 >>>>>>> Stashed changes
@@ -10701,12 +10711,16 @@ th.hide-for-touch {
 .attractions__row {
   padding-top: 1em; }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   /* line 4, C:/Sites/explorer/app/css/attractions__row.sass */
   .attractions__row .attraction__img {
     height: 65px;
     display: block;
     margin: 0 auto; }
   /* line 11, C:/Sites/explorer/app/css/attractions__row.sass */
+=======
+  /* line 7, C:/Sites/explorer/app/css/attractions__row.sass */
+>>>>>>> Stashed changes
 =======
   /* line 7, C:/Sites/explorer/app/css/attractions__row.sass */
 >>>>>>> Stashed changes
@@ -10729,6 +10743,9 @@ th.hide-for-touch {
   padding: 2em 0;
   background: #eaeded; }
   /* line 5, C:/Sites/explorer/app/css/popular-tours.sass */
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   .popular-tours .tours__title {
     color: red;
@@ -10742,11 +10759,15 @@ th.hide-for-touch {
 =======
     text-align: center; }
   /* line 11, C:/Sites/explorer/app/css/popular-tours.sass */
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   .popular-tours .item__wrapper {
     position: relative;
     width: 200px;
     height: 250px; }
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   /* line 19, C:/Sites/explorer/app/css/popular-tours.sass */
   .popular-tours .popular__image {
@@ -10754,11 +10775,16 @@ th.hide-for-touch {
     max-width: 200px; }
   /* line 23, C:/Sites/explorer/app/css/popular-tours.sass */
 =======
+=======
+>>>>>>> Stashed changes
   /* line 16, C:/Sites/explorer/app/css/popular-tours.sass */
   .popular-tours .popular__image {
     max-height: 250px;
     max-width: 200px; }
   /* line 20, C:/Sites/explorer/app/css/popular-tours.sass */
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   .popular-tours .popular__text {
     text-transform: uppercase;
@@ -10772,6 +10798,7 @@ th.hide-for-touch {
     height: 70px;
     margin: 0; }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   /* line 35, C:/Sites/explorer/app/css/popular-tours.sass */
   .popular-tours .popular__text--red {
     background: rgba(255, 0, 0, 0.8); }
@@ -10783,6 +10810,8 @@ th.hide-for-touch {
     background: rgba(2, 130, 182, 0.8); }
   /* line 44, C:/Sites/explorer/app/css/popular-tours.sass */
 =======
+=======
+>>>>>>> Stashed changes
   /* line 32, C:/Sites/explorer/app/css/popular-tours.sass */
   .popular-tours .popular__text--red {
     background: rgba(255, 0, 0, 0.8); }
@@ -10793,12 +10822,16 @@ th.hide-for-touch {
   .popular-tours .popular__text--blue {
     background: rgba(2, 130, 182, 0.8); }
   /* line 41, C:/Sites/explorer/app/css/popular-tours.sass */
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   .popular-tours .popular__text--violet {
     background: rgba(98, 100, 131, 0.8); }
 
 /* line 1, C:/Sites/explorer/app/css/testimonials.sass */
 .testimonials {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   background-image: url(../i/diagonal__pattern.png);
   padding-bottom: 140px; }
@@ -10815,11 +10848,20 @@ th.hide-for-touch {
     margin: 0 auto; }
   /* line 9, C:/Sites/explorer/app/css/testimonials.sass */
 >>>>>>> Stashed changes
+=======
+  background-image: url(../i/diagonal__pattern.png); }
+  /* line 4, C:/Sites/explorer/app/css/testimonials.sass */
+  .testimonials .testimonial__wrapper {
+    width: 750px;
+    margin: 0 auto; }
+  /* line 9, C:/Sites/explorer/app/css/testimonials.sass */
+>>>>>>> Stashed changes
   .testimonials .t__img {
     width: 120px;
     height: 120px;
     float: left;
     margin: 30px; }
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   /* line 17, C:/Sites/explorer/app/css/testimonials.sass */
   .testimonials .t__text-wrapper {
@@ -10837,6 +10879,11 @@ th.hide-for-touch {
   /* line 16, C:/Sites/explorer/app/css/testimonials.sass */
   .testimonials .t__text-wrapper {
     position: relative; }
+=======
+  /* line 16, C:/Sites/explorer/app/css/testimonials.sass */
+  .testimonials .t__text-wrapper {
+    position: relative; }
+>>>>>>> Stashed changes
   /* line 21, C:/Sites/explorer/app/css/testimonials.sass */
   .testimonials .t__text {
     quotes: "“" "”" "‘" "’";
@@ -10846,6 +10893,9 @@ th.hide-for-touch {
     padding-left: 24px;
     padding-top: 10px; }
   /* line 29, C:/Sites/explorer/app/css/testimonials.sass */
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   .testimonials .t__text:before {
     content: open-quote;
@@ -10856,7 +10906,11 @@ th.hide-for-touch {
     left: 156px;
     top: -36px; }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   /* line 39, C:/Sites/explorer/app/css/testimonials.sass */
+=======
+  /* line 38, C:/Sites/explorer/app/css/testimonials.sass */
+>>>>>>> Stashed changes
 =======
   /* line 38, C:/Sites/explorer/app/css/testimonials.sass */
 >>>>>>> Stashed changes
@@ -10869,7 +10923,11 @@ th.hide-for-touch {
     right: 420px;
     bottom: 64px; }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   /* line 48, C:/Sites/explorer/app/css/testimonials.sass */
+=======
+  /* line 47, C:/Sites/explorer/app/css/testimonials.sass */
+>>>>>>> Stashed changes
 =======
   /* line 47, C:/Sites/explorer/app/css/testimonials.sass */
 >>>>>>> Stashed changes
@@ -10879,7 +10937,11 @@ th.hide-for-touch {
     padding: 10px 20px;
     text-transform: uppercase; }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     /* line 54, C:/Sites/explorer/app/css/testimonials.sass */
+=======
+    /* line 53, C:/Sites/explorer/app/css/testimonials.sass */
+>>>>>>> Stashed changes
     .testimonials .t__see-my-photos-button i {
       margin-right: 10px; }
 
@@ -10888,6 +10950,7 @@ th.hide-for-touch {
   font-size: 24px;
   color: #e2001a;
   text-transform: uppercase; }
+<<<<<<< Updated upstream
 
 /* line 7, C:/Sites/explorer/app/css/featuredin.sass */
 .featuredin .featuredin__images {
@@ -11093,6 +11156,42 @@ th.hide-for-touch {
     height: 15px;
     width: 100%; }
 
+=======
+
+/* line 7, C:/Sites/explorer/app/css/featuredin.sass */
+.featuredin .featuredin__images {
+  text-align: center;
+  margin-bottom: 20px; }
+  /* line 11, C:/Sites/explorer/app/css/featuredin.sass */
+  .featuredin .featuredin__images .featuredin__img {
+    margin-right: 45px; }
+
+/* line 1, C:/Sites/explorer/app/css/footer.sass */
+.footer {
+  background-image: url(../i/footerbg.jpg);
+  background-size: cover;
+  height: 340px;
+  margin-top: 200px;
+  position: relative; }
+  /* line 8, C:/Sites/explorer/app/css/footer.sass */
+  .footer .footer__ddc {
+    background-image: url(../i/doubledeckercircle.png);
+    position: absolute;
+    top: -115px;
+    left: 50%;
+    width: 263px;
+    height: 263px;
+    margin-left: -132px; }
+  /* line 17, C:/Sites/explorer/app/css/footer.sass */
+  .footer .footer__line {
+    position: absolute;
+    margin-top: -15px;
+    border-top: 10px solid #ed520a;
+    border-bottom: 2px solid #ed520a;
+    height: 15px;
+    width: 100%; }
+
+>>>>>>> Stashed changes
 /* line 24, stdin */
 .row {
   margin: 0 auto;
@@ -11148,9 +11247,12 @@ body {
   z-index: 50; }
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /* line 10, C:/Sites/explorer/app/css/homepage.sass */
 .homepage__banner2 {
 =======
+=======
+>>>>>>> Stashed changes
 /* line 22, C:/Sites/explorer/app/css/owl.carousel.css */
 .owl-carousel .owl-wrapper {
   display: none;
@@ -11220,6 +11322,7 @@ body {
 .owl-carousel-main {
   margin-bottom: -12px; }
 
+<<<<<<< Updated upstream
 /* line 76, C:/Sites/explorer/app/css/homepage.sass */
 .owl-carousel-main.owl-theme .owl-pagination {
   position: absolute;
@@ -11238,6 +11341,8 @@ body {
 /* line 89, C:/Sites/explorer/app/css/homepage.sass */
 .owl-carousel-main.owl-theme .owl-controls .owl-page.active span {
 =======
+=======
+>>>>>>> Stashed changes
 /* line 27, C:/Sites/explorer/app/css/owl.carousel.css */
 .owl-carousel .owl-wrapper-outer {
   overflow: hidden;
@@ -11364,6 +11469,7 @@ body {
   margin: 0 auto;
   max-width: 62.5rem; }
 
+<<<<<<< Updated upstream
 /* line 35, stdin */
 .row--ext {
   margin: 0 auto;
@@ -11381,6 +11487,8 @@ body {
   border-bottom: 1px dashed black;
   background: #E6EA69; }
 =======
+=======
+>>>>>>> Stashed changes
 /* line 77, C:/Sites/explorer/app/css/owl.theme.css */
 .owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls.clickable .owl-page:hover span {

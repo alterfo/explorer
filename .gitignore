@@ -2,14 +2,20 @@ node_modules
 .idea
 build
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 app/js/main.js
 app/js/main.js.map
 build/css/main.css
 build/js/client.js
 =======
+=======
+>>>>>>> Stashed changes
 build/css/main.css
 build/index.html
 build/js/client.js
 build/js/vendor.js
 build/testimonials.html
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
