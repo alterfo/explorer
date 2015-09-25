@@ -10438,7 +10438,7 @@ th.hide-for-touch {
  *	v1.3.2
  */
 /* clearfix */
-/* line 7, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
+/* line 7, C:/Sites/explorer/app/css/owl.carousel.css */
 .owl-carousel .owl-wrapper:after {
   content: ".";
   display: block;
@@ -10448,26 +10448,26 @@ th.hide-for-touch {
   height: 0; }
 
 /* display none until init */
-/* line 16, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
+/* line 16, C:/Sites/explorer/app/css/owl.carousel.css */
 .owl-carousel {
   display: none;
   position: relative;
   width: 100%;
   -ms-touch-action: pan-y; }
 
-/* line 22, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
+/* line 22, C:/Sites/explorer/app/css/owl.carousel.css */
 .owl-carousel .owl-wrapper {
   display: none;
   position: relative;
   -webkit-transform: translate3d(0px, 0px, 0px); }
 
-/* line 27, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
+/* line 27, C:/Sites/explorer/app/css/owl.carousel.css */
 .owl-carousel .owl-wrapper-outer {
   overflow: hidden;
   position: relative;
   width: 100%; }
 
-/* line 32, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
+/* line 32, C:/Sites/explorer/app/css/owl.carousel.css */
 .owl-carousel .owl-wrapper-outer.autoHeight {
   -webkit-transition: height 500ms ease-in-out;
   -moz-transition: height 500ms ease-in-out;
@@ -10475,16 +10475,16 @@ th.hide-for-touch {
   -o-transition: height 500ms ease-in-out;
   transition: height 500ms ease-in-out; }
 
-/* line 40, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
+/* line 40, C:/Sites/explorer/app/css/owl.carousel.css */
 .owl-carousel .owl-item {
   float: left; }
 
-/* line 44, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
+/* line 44, C:/Sites/explorer/app/css/owl.carousel.css */
 .owl-controls .owl-page,
 .owl-controls .owl-buttons div {
   cursor: pointer; }
 
-/* line 47, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
+/* line 47, C:/Sites/explorer/app/css/owl.carousel.css */
 .owl-controls {
   -webkit-user-select: none;
   -khtml-user-select: none;
@@ -10494,12 +10494,12 @@ th.hide-for-touch {
   -webkit-tap-highlight-color: transparent; }
 
 /* mouse grab icon */
-/* line 57, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
+/* line 57, C:/Sites/explorer/app/css/owl.carousel.css */
 .grabbing {
   cursor: url(grabbing.png) 8 8, move; }
 
 /* fix */
-/* line 63, /Users/oleg/Sites/explorer/app/css/owl.carousel.css */
+/* line 63, C:/Sites/explorer/app/css/owl.carousel.css */
 .owl-carousel .owl-wrapper,
 .owl-carousel .owl-item {
   -webkit-backface-visibility: hidden;
@@ -10513,13 +10513,13 @@ th.hide-for-touch {
 * 	Owl Carousel Owl Demo Theme 
 *	v1.3.2
 */
-/* line 6, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
+/* line 6, C:/Sites/explorer/app/css/owl.theme.css */
 .owl-theme .owl-controls {
   margin-top: 10px;
   text-align: center; }
 
 /* Styling Next and Prev buttons */
-/* line 13, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
+/* line 13, C:/Sites/explorer/app/css/owl.theme.css */
 .owl-theme .owl-controls .owl-buttons div {
   color: #FFF;
   display: inline-block;
@@ -10537,7 +10537,7 @@ th.hide-for-touch {
   /*IE7 fix*/
   opacity: 0.5; }
 
-/* line 29, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
+/* line 29, C:/Sites/explorer/app/css/owl.theme.css */
 .owl-theme .owl-controls .owl-buttons div.owl-prev {
   position: absolute;
   top: 50%;
@@ -10546,7 +10546,7 @@ th.hide-for-touch {
   color: grey;
   font-size: 36px; }
 
-/* line 38, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
+/* line 38, C:/Sites/explorer/app/css/owl.theme.css */
 .owl-theme .owl-controls .owl-buttons div.owl-next {
   position: absolute;
   top: 50%;
@@ -10557,7 +10557,7 @@ th.hide-for-touch {
 
 /* Clickable class fix problem with hover on touch devices */
 /* Use it for non-touch hover action */
-/* line 50, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
+/* line 50, C:/Sites/explorer/app/css/owl.theme.css */
 .owl-theme .owl-controls.clickable .owl-buttons div:hover {
   filter: Alpha(Opacity=100);
   /*IE7 fix*/
@@ -10565,14 +10565,14 @@ th.hide-for-touch {
   text-decoration: none; }
 
 /* Styling Pagination*/
-/* line 58, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
+/* line 58, C:/Sites/explorer/app/css/owl.theme.css */
 .owl-theme .owl-controls .owl-page {
   display: inline-block;
   zoom: 1;
   *display: inline;
   /*IE7 life-saver */ }
 
-/* line 65, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
+/* line 65, C:/Sites/explorer/app/css/owl.theme.css */
 .owl-theme .owl-controls .owl-page span {
   display: block;
   width: 12px;
@@ -10586,7 +10586,7 @@ th.hide-for-touch {
   border-radius: 20px;
   background: #869791; }
 
-/* line 80, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
+/* line 80, C:/Sites/explorer/app/css/owl.theme.css */
 .owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls.clickable .owl-page:hover span {
   filter: Alpha(Opacity=100);
@@ -10594,7 +10594,7 @@ th.hide-for-touch {
   opacity: 1; }
 
 /* If PaginationNumbers is true */
-/* line 87, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
+/* line 87, C:/Sites/explorer/app/css/owl.theme.css */
 .owl-theme .owl-controls .owl-page span.owl-numbers {
   height: auto;
   width: auto;
@@ -10606,108 +10606,108 @@ th.hide-for-touch {
   border-radius: 30px; }
 
 /* preloading images */
-/* line 99, /Users/oleg/Sites/explorer/app/css/owl.theme.css */
+/* line 99, C:/Sites/explorer/app/css/owl.theme.css */
 .owl-item.loading {
   min-height: 150px;
   background: url(AjaxLoader.gif) no-repeat center center; }
 
-/* line 1, /Users/oleg/Sites/explorer/app/css/margins.sass */
+/* line 1, C:/Sites/explorer/app/css/margins.sass */
 .bottom20 {
   margin-bottom: 20px; }
 
-/* line 4, /Users/oleg/Sites/explorer/app/css/margins.sass */
+/* line 4, C:/Sites/explorer/app/css/margins.sass */
 .bottom40 {
   margin-bottom: 40px; }
 
-/* line 7, /Users/oleg/Sites/explorer/app/css/margins.sass */
+/* line 7, C:/Sites/explorer/app/css/margins.sass */
 .top20 {
   margin-top: 20px; }
 
-/* line 10, /Users/oleg/Sites/explorer/app/css/margins.sass */
+/* line 10, C:/Sites/explorer/app/css/margins.sass */
 .top40 {
   margin-top: 40px; }
 
-/* line 13, /Users/oleg/Sites/explorer/app/css/margins.sass */
+/* line 13, C:/Sites/explorer/app/css/margins.sass */
 .vertical40 {
   margin-top: 40px;
   margin-bottom: 40px; }
 
-/* line 1, /Users/oleg/Sites/explorer/app/css/logo--alone.sass */
+/* line 1, C:/Sites/explorer/app/css/logo--alone.sass */
 .logo--alone {
   height: 100px;
   line-height: 100px; }
 
-/* line 1, /Users/oleg/Sites/explorer/app/css/logo--menu.sass */
+/* line 1, C:/Sites/explorer/app/css/logo--menu.sass */
 .logo--menu {
   height: 100px;
   line-height: 100px; }
-  /* line 5, /Users/oleg/Sites/explorer/app/css/logo--menu.sass */
+  /* line 5, C:/Sites/explorer/app/css/logo--menu.sass */
   .logo--menu .menu {
     height: 100px; }
-    /* line 10, /Users/oleg/Sites/explorer/app/css/logo--menu.sass */
+    /* line 10, C:/Sites/explorer/app/css/logo--menu.sass */
     .logo--menu .menu .menu__list .menu__item {
       display: inline-block;
       list-style-type: none;
       margin-left: 2em;
       line-height: 100px; }
-      /* line 16, /Users/oleg/Sites/explorer/app/css/logo--menu.sass */
+      /* line 16, C:/Sites/explorer/app/css/logo--menu.sass */
       .logo--menu .menu .menu__list .menu__item .menu__link {
         text-transform: uppercase;
         color: #f90000;
         font-size: 1.4em; }
-  /* line 22, /Users/oleg/Sites/explorer/app/css/logo--menu.sass */
+  /* line 22, C:/Sites/explorer/app/css/logo--menu.sass */
   .logo--menu .login i {
     font-size: 1.4em;
     margin: 0 1em;
     color: #383737; }
-  /* line 28, /Users/oleg/Sites/explorer/app/css/logo--menu.sass */
+  /* line 28, C:/Sites/explorer/app/css/logo--menu.sass */
   .logo--menu .login__text {
     text-transform: uppercase;
     color: #383737;
     font-size: 1.4em; }
 
-/* line 1, /Users/oleg/Sites/explorer/app/css/logo--homepage.sass */
+/* line 1, C:/Sites/explorer/app/css/logo--homepage.sass */
 .logo--homepage {
   height: 100px;
   line-height: 100px;
   background: rgba(171, 171, 179, 0.6);
   z-index: 100;
   position: relative; }
-  /* line 10, /Users/oleg/Sites/explorer/app/css/logo--homepage.sass */
+  /* line 10, C:/Sites/explorer/app/css/logo--homepage.sass */
   .logo--homepage .login .avatar {
     border-radius: 50%;
     width: 32px;
     height: 32px;
     margin-top: -7px; }
-  /* line 16, /Users/oleg/Sites/explorer/app/css/logo--homepage.sass */
+  /* line 16, C:/Sites/explorer/app/css/logo--homepage.sass */
   .logo--homepage .login i, .logo--homepage .login span {
     font-size: 1.4em;
     margin: 0 0.3em;
     color: #383737; }
 
-/* line 1, /Users/oleg/Sites/explorer/app/css/attractions__row.sass */
+/* line 1, C:/Sites/explorer/app/css/attractions__row.sass */
 .attractions__row {
   padding-top: 1em; }
-  /* line 4, /Users/oleg/Sites/explorer/app/css/attractions__row.sass */
+  /* line 4, C:/Sites/explorer/app/css/attractions__row.sass */
   .attractions__row .attraction__img {
     height: 65px;
     display: block;
     margin: 0 auto; }
-  /* line 11, /Users/oleg/Sites/explorer/app/css/attractions__row.sass */
+  /* line 11, C:/Sites/explorer/app/css/attractions__row.sass */
   .attractions__row .attraction__text {
     text-transform: uppercase;
     text-wrap: nowrap;
     display: inline-block; }
-  /* line 16, /Users/oleg/Sites/explorer/app/css/attractions__row.sass */
+  /* line 16, C:/Sites/explorer/app/css/attractions__row.sass */
   .attractions__row .columns {
     padding: 0; }
 
-/* line 1, /Users/oleg/Sites/explorer/app/css/popular-tours.sass */
+/* line 1, C:/Sites/explorer/app/css/popular-tours.sass */
 .popular-tours {
   padding: 20px 0;
   background: #eaeded;
   margin: 0; }
-  /* line 6, /Users/oleg/Sites/explorer/app/css/popular-tours.sass */
+  /* line 6, C:/Sites/explorer/app/css/popular-tours.sass */
   .popular-tours .tours__title {
     color: red;
     text-transform: uppercase;
@@ -10715,16 +10715,16 @@ th.hide-for-touch {
     text-align: center;
     font-weight: bold;
     margin-bottom: 20px; }
-  /* line 14, /Users/oleg/Sites/explorer/app/css/popular-tours.sass */
+  /* line 14, C:/Sites/explorer/app/css/popular-tours.sass */
   .popular-tours .item__wrapper {
     position: relative;
     width: 200px;
     height: 250px; }
-  /* line 19, /Users/oleg/Sites/explorer/app/css/popular-tours.sass */
+  /* line 19, C:/Sites/explorer/app/css/popular-tours.sass */
   .popular-tours .popular__image {
     max-height: 250px;
     max-width: 200px; }
-  /* line 23, /Users/oleg/Sites/explorer/app/css/popular-tours.sass */
+  /* line 23, C:/Sites/explorer/app/css/popular-tours.sass */
   .popular-tours .popular__text {
     text-transform: uppercase;
     font-size: 20px;
@@ -10736,45 +10736,45 @@ th.hide-for-touch {
     width: 100%;
     height: 70px;
     margin: 0; }
-  /* line 35, /Users/oleg/Sites/explorer/app/css/popular-tours.sass */
+  /* line 35, C:/Sites/explorer/app/css/popular-tours.sass */
   .popular-tours .popular__text--red {
     background: rgba(255, 0, 0, 0.8); }
-  /* line 38, /Users/oleg/Sites/explorer/app/css/popular-tours.sass */
+  /* line 38, C:/Sites/explorer/app/css/popular-tours.sass */
   .popular-tours .popular__text--orange {
     background: rgba(255, 122, 1, 0.8); }
-  /* line 41, /Users/oleg/Sites/explorer/app/css/popular-tours.sass */
+  /* line 41, C:/Sites/explorer/app/css/popular-tours.sass */
   .popular-tours .popular__text--blue {
     background: rgba(2, 130, 182, 0.8); }
-  /* line 44, /Users/oleg/Sites/explorer/app/css/popular-tours.sass */
+  /* line 44, C:/Sites/explorer/app/css/popular-tours.sass */
   .popular-tours .popular__text--violet {
     background: rgba(98, 100, 131, 0.8); }
 
-/* line 1, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
+/* line 1, C:/Sites/explorer/app/css/testimonials.sass */
 .testimonials {
   background-image: url(../i/diagonal__pattern.png);
   padding-bottom: 140px; }
-  /* line 5, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
+  /* line 5, C:/Sites/explorer/app/css/testimonials.sass */
   .testimonials .testimonial__wrapper {
     width: 750px;
     margin: 0 auto; }
-  /* line 10, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
+  /* line 10, C:/Sites/explorer/app/css/testimonials.sass */
   .testimonials .t__img {
     width: 120px;
     height: 120px;
     float: left;
     margin: 30px; }
-  /* line 17, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
+  /* line 17, C:/Sites/explorer/app/css/testimonials.sass */
   .testimonials .t__text-wrapper {
     position: relative; }
-  /* line 22, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
+  /* line 22, C:/Sites/explorer/app/css/testimonials.sass */
   .testimonials .t__text {
     quotes: "“" "”" "‘" "’";
     padding-left: 24px; }
-  /* line 26, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
+  /* line 26, C:/Sites/explorer/app/css/testimonials.sass */
   .testimonials .t__author {
     padding-left: 24px;
     padding-top: 10px; }
-  /* line 30, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
+  /* line 30, C:/Sites/explorer/app/css/testimonials.sass */
   .testimonials .t__text:before {
     content: open-quote;
     font-family: Arial;
@@ -10783,7 +10783,7 @@ th.hide-for-touch {
     position: absolute;
     left: 156px;
     top: -36px; }
-  /* line 39, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
+  /* line 39, C:/Sites/explorer/app/css/testimonials.sass */
   .testimonials .t__text:after {
     content: close-quote;
     font-family: Arial;
@@ -10792,38 +10792,38 @@ th.hide-for-touch {
     position: absolute;
     right: 420px;
     bottom: 64px; }
-  /* line 48, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
+  /* line 48, C:/Sites/explorer/app/css/testimonials.sass */
   .testimonials .t__see-my-photos-button {
     background-color: #ff6d29;
     height: 36px;
     padding: 10px 20px;
     text-transform: uppercase; }
-    /* line 54, /Users/oleg/Sites/explorer/app/css/testimonials.sass */
+    /* line 54, C:/Sites/explorer/app/css/testimonials.sass */
     .testimonials .t__see-my-photos-button i {
       margin-right: 10px; }
 
-/* line 3, /Users/oleg/Sites/explorer/app/css/featuredin.sass */
+/* line 3, C:/Sites/explorer/app/css/featuredin.sass */
 .featuredin .featuredin__title {
   font-size: 24px;
   color: #e2001a;
   text-transform: uppercase; }
 
-/* line 7, /Users/oleg/Sites/explorer/app/css/featuredin.sass */
+/* line 7, C:/Sites/explorer/app/css/featuredin.sass */
 .featuredin .featuredin__images {
   text-align: center;
   margin-bottom: 20px; }
-  /* line 11, /Users/oleg/Sites/explorer/app/css/featuredin.sass */
+  /* line 11, C:/Sites/explorer/app/css/featuredin.sass */
   .featuredin .featuredin__images .featuredin__img {
     margin-right: 45px; }
 
-/* line 1, /Users/oleg/Sites/explorer/app/css/footer.sass */
+/* line 1, C:/Sites/explorer/app/css/footer.sass */
 .footer {
   background-image: url(../i/footerbg.jpg);
   background-size: cover;
   height: 340px;
   margin-top: 100px;
   position: relative; }
-  /* line 8, /Users/oleg/Sites/explorer/app/css/footer.sass */
+  /* line 8, C:/Sites/explorer/app/css/footer.sass */
   .footer .footer__ddc {
     background-image: url(../i/doubledeckercircle.png);
     position: absolute;
@@ -10832,7 +10832,7 @@ th.hide-for-touch {
     width: 263px;
     height: 263px;
     margin-left: -132px; }
-  /* line 17, /Users/oleg/Sites/explorer/app/css/footer.sass */
+  /* line 17, C:/Sites/explorer/app/css/footer.sass */
   .footer .footer__line {
     position: absolute;
     margin-top: -15px;
@@ -10840,37 +10840,37 @@ th.hide-for-touch {
     border-bottom: 2px solid #ed520a;
     height: 15px;
     width: 100%; }
-  /* line 25, /Users/oleg/Sites/explorer/app/css/footer.sass */
+  /* line 25, C:/Sites/explorer/app/css/footer.sass */
   .footer .text__list {
     margin-top: 50px; }
-  /* line 28, /Users/oleg/Sites/explorer/app/css/footer.sass */
+  /* line 28, C:/Sites/explorer/app/css/footer.sass */
   .footer .text__list--offset {
     margin-left: 24px; }
-  /* line 31, /Users/oleg/Sites/explorer/app/css/footer.sass */
+  /* line 31, C:/Sites/explorer/app/css/footer.sass */
   .footer .footer__link {
     color: white;
     line-height: 3; }
-  /* line 35, /Users/oleg/Sites/explorer/app/css/footer.sass */
+  /* line 35, C:/Sites/explorer/app/css/footer.sass */
   .footer .text__list-item i {
     font-size: 24px;
     width: 36px; }
-  /* line 39, /Users/oleg/Sites/explorer/app/css/footer.sass */
+  /* line 39, C:/Sites/explorer/app/css/footer.sass */
   .footer .copy__line {
     position: absolute;
     bottom: 20px;
     width: 100%;
     color: #bfbbbb;
     font-size: 12px; }
-  /* line 46, /Users/oleg/Sites/explorer/app/css/footer.sass */
+  /* line 46, C:/Sites/explorer/app/css/footer.sass */
   .footer .privacy__link {
     color: #bfbbbb;
     margin-left: 30px; }
-  /* line 50, /Users/oleg/Sites/explorer/app/css/footer.sass */
+  /* line 50, C:/Sites/explorer/app/css/footer.sass */
   .footer .terms__link {
     color: #bfbbbb;
     margin-left: 20px; }
 
-/* line 1, /Users/oleg/Sites/explorer/app/css/pageheaderbg.sass */
+/* line 1, C:/Sites/explorer/app/css/pageheaderbg.sass */
 .pageheaderbg {
   background-image: url(../i/pageheaderbg.png);
   background-size: cover;
@@ -10878,7 +10878,7 @@ th.hide-for-touch {
   width: 100%;
   position: relative;
   border-bottom: 20px solid #e2001a; }
-  /* line 10, /Users/oleg/Sites/explorer/app/css/pageheaderbg.sass */
+  /* line 10, C:/Sites/explorer/app/css/pageheaderbg.sass */
   .pageheaderbg:after {
     background: #f29c74;
     height: 10px;
@@ -10887,7 +10887,7 @@ th.hide-for-touch {
     display: block;
     position: absolute;
     bottom: -30px; }
-  /* line 20, /Users/oleg/Sites/explorer/app/css/pageheaderbg.sass */
+  /* line 20, C:/Sites/explorer/app/css/pageheaderbg.sass */
   .pageheaderbg .page__title {
     text-transform: uppercase;
     line-height: 1.5;
@@ -10901,42 +10901,43 @@ th.hide-for-touch {
     color: white;
     border-top: 10px solid white;
     border-bottom: 10px solid white;
-    font-family: Helvetica, Arial, sans-serif; }
+    font-family: Helvetica, Arial, sans-serif;
+    min-width: 300px; }
 
-/* line 1, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+/* line 1, C:/Sites/explorer/app/css/slider__reddots.sass */
 .slider__reddots {
   background: #e3e2e2;
   padding-top: 80px; }
 
-/* line 7, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+/* line 7, C:/Sites/explorer/app/css/slider__reddots.sass */
 .sr__item1 {
   background-image: url(../i/sr__img1.jpg);
   background-size: cover;
   height: 440px;
   position: relative; }
 
-/* line 7, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+/* line 7, C:/Sites/explorer/app/css/slider__reddots.sass */
 .sr__item2 {
   background-image: url(../i/sr__img2.jpg);
   background-size: cover;
   height: 440px;
   position: relative; }
 
-/* line 7, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+/* line 7, C:/Sites/explorer/app/css/slider__reddots.sass */
 .sr__item3 {
   background-image: url(../i/sr__img3.jpg);
   background-size: cover;
   height: 440px;
   position: relative; }
 
-/* line 7, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+/* line 7, C:/Sites/explorer/app/css/slider__reddots.sass */
 .sr__item4 {
   background-image: url(../i/sr__img4.jpg);
   background-size: cover;
   height: 440px;
   position: relative; }
 
-/* line 15, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+/* line 15, C:/Sites/explorer/app/css/slider__reddots.sass */
 .sr__textblock {
   position: absolute;
   bottom: 0;
@@ -10950,7 +10951,7 @@ th.hide-for-touch {
   line-height: 1;
   font-weight: 300; }
 
-/* line 28, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+/* line 28, C:/Sites/explorer/app/css/slider__reddots.sass */
 .owl-carousel__reddots.owl-theme .owl-pagination {
   position: absolute;
   bottom: 0;
@@ -10958,14 +10959,14 @@ th.hide-for-touch {
   margin-right: -50%;
   transform: translate(-50%, -50%); }
 
-/* line 35, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+/* line 35, C:/Sites/explorer/app/css/slider__reddots.sass */
 .owl-carousel__reddots.owl-theme .owl-pagination span {
   margin-left: 18px;
   background: #ffffff;
   filter: Alpha(Opacity=100);
   opacity: 1; }
 
-/* line 41, /Users/oleg/Sites/explorer/app/css/slider__reddots.sass */
+/* line 41, C:/Sites/explorer/app/css/slider__reddots.sass */
 .owl-carousel__reddots.owl-theme .owl-controls .owl-page.active span {
   display: block;
   width: 20px;
@@ -10973,7 +10974,7 @@ th.hide-for-touch {
   margin-bottom: 1px;
   background: #e2001a; }
 
-/* line 1, /Users/oleg/Sites/explorer/app/css/homepage.sass */
+/* line 1, C:/Sites/explorer/app/css/homepage.sass */
 .homepage__banner1 {
   position: relative;
   top: 0;
@@ -10983,7 +10984,7 @@ th.hide-for-touch {
   background-size: cover;
   z-index: 50; }
 
-/* line 10, /Users/oleg/Sites/explorer/app/css/homepage.sass */
+/* line 10, C:/Sites/explorer/app/css/homepage.sass */
 .homepage__banner2 {
   position: relative;
   top: 0;
@@ -10993,7 +10994,7 @@ th.hide-for-touch {
   background-size: cover;
   z-index: 50; }
 
-/* line 19, /Users/oleg/Sites/explorer/app/css/homepage.sass */
+/* line 19, C:/Sites/explorer/app/css/homepage.sass */
 .homepage__banner3 {
   position: relative;
   top: 0;
@@ -11003,13 +11004,13 @@ th.hide-for-touch {
   background-size: cover;
   z-index: 50; }
 
-/* line 30, /Users/oleg/Sites/explorer/app/css/homepage.sass */
+/* line 30, C:/Sites/explorer/app/css/homepage.sass */
 .homepage__overlay {
   position: absolute;
   top: 0;
   width: 100%; }
 
-/* line 35, /Users/oleg/Sites/explorer/app/css/homepage.sass */
+/* line 35, C:/Sites/explorer/app/css/homepage.sass */
 .attraction__wrapper--grey {
   margin-top: 200px;
   background: rgba(60, 59, 59, 0.7);
@@ -11017,18 +11018,18 @@ th.hide-for-touch {
   padding: 30px;
   z-index: 999; }
 
-/* line 47, /Users/oleg/Sites/explorer/app/css/homepage.sass */
+/* line 47, C:/Sites/explorer/app/css/homepage.sass */
 .attraction__wrapper--rounded {
   background: rgba(225, 226, 226, 0.9);
   border-radius: 20px;
   padding: 10px 50px; }
 
-/* line 52, /Users/oleg/Sites/explorer/app/css/homepage.sass */
+/* line 52, C:/Sites/explorer/app/css/homepage.sass */
 .homepage__lead-text {
   color: white;
   margin: 24px 24px 36px;
   font-size: 24px; }
-  /* line 57, /Users/oleg/Sites/explorer/app/css/homepage.sass */
+  /* line 57, C:/Sites/explorer/app/css/homepage.sass */
   .homepage__lead-text .homepage__link--red {
     color: #e2001a;
     text-decoration: underline;
@@ -11036,7 +11037,7 @@ th.hide-for-touch {
     display: inline-block;
     margin-left: 36px; }
 
-/* line 64, /Users/oleg/Sites/explorer/app/css/homepage.sass */
+/* line 64, C:/Sites/explorer/app/css/homepage.sass */
 .homepage__slider-text {
   font-size: 24px;
   color: white;
@@ -11045,11 +11046,11 @@ th.hide-for-touch {
   padding-bottom: 36px;
   top: 36px; }
 
-/* line 72, /Users/oleg/Sites/explorer/app/css/homepage.sass */
+/* line 72, C:/Sites/explorer/app/css/homepage.sass */
 .owl-carousel-main {
   margin-bottom: -12px; }
 
-/* line 76, /Users/oleg/Sites/explorer/app/css/homepage.sass */
+/* line 76, C:/Sites/explorer/app/css/homepage.sass */
 .owl-carousel-main.owl-theme .owl-pagination {
   position: absolute;
   bottom: 20px;
@@ -11057,14 +11058,14 @@ th.hide-for-touch {
   margin-right: -50%;
   transform: translate(-50%, -50%); }
 
-/* line 83, /Users/oleg/Sites/explorer/app/css/homepage.sass */
+/* line 83, C:/Sites/explorer/app/css/homepage.sass */
 .owl-carousel-main.owl-theme .owl-pagination span {
   margin-left: 18px;
   background: #ffffff;
   filter: Alpha(Opacity=100);
   opacity: 1; }
 
-/* line 89, /Users/oleg/Sites/explorer/app/css/homepage.sass */
+/* line 89, C:/Sites/explorer/app/css/homepage.sass */
 .owl-carousel-main.owl-theme .owl-controls .owl-page.active span {
   display: block;
   width: 20px;

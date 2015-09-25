@@ -1,3 +1,7 @@
 node_modules
 .idea
 build
+app/js/main.js
+app/js/main.js.map
+build/css/main.css
+build/js/client.js
